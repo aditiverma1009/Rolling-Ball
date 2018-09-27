@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{DC616254-D562-2ABE-137A-EA9FDBD78F15}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/PlayerComp.cs">
+    <Files>
+      <File FileName="../Documents/:Users:aditiverma:First_Game:Assets:Script:PlayerComp.cs" Line="5" Column="25" />
+      <File FileName="Assets/Script/PlayerComp.cs" Line="25" Column="5" />
+      <File FileName="Assets/Script/CameraController.cs" Line="17" Column="10" />
+      <File FileName="Assets/Script/RotatePoint.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
